@@ -1,0 +1,15 @@
+PARAMETER - A parameter is a variable named in the function or method definition. It acts as a placeholder for the data the function will use.
+            ex:
+            In def add(num1, num2):, num1 and num2 are parameters.
+
+ARGUMENT -  An argument is the actual value that is passed to the function or method when it is called.
+          ex:
+          In add(5, 3), 5 and 3 are arguments.
+
+VARIABLE - LIKE STORAGE, YOU CAN ASSIGN OR STORED SOMETHING
+
+ATTRIBUTE - VARIABLE INSIDE THE CLASS
+
+FUNCTION - EXECUTABLE PART OF THE CODE
+
+METHOD - ALSO A FUNCTION BUT ITS INSIDE OF A CLASS
