@@ -1,3 +1,2 @@
-# notes-snippets
-
+# notes
 Personal notes
